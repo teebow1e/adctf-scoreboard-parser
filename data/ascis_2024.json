@@ -1,0 +1,569 @@
+[{
+    "_id": {
+      "$oid": "67155aec5509cfe67db36068"
+    },
+    "teams_info": [
+      {
+        "name": "[VN1][KMA HN] KMA.0range",
+        "place": 1,
+        "score": 16005.79,
+        "ip": "103",
+        "services": [
+          {
+            "name": "Linkextractor 2.0",
+            "sla": 92.27,
+            "flag_points": 6918.8,
+            "flags": {
+              "got": 1285,
+              "lost": 171
+            },
+            "status": "UP"
+          },
+          {
+            "name": "pepeviewer",
+            "sla": 77.18,
+            "flag_points": 12465.96,
+            "flags": {
+              "got": 2494,
+              "lost": 56
+            },
+            "status": "UP"
+          }
+        ]
+      },
+      {
+        "name": "[VN2][KMA HCM] KMA.Akatsuki",
+        "place": 2,
+        "score": 10977.48,
+        "ip": "109",
+        "services": [
+          {
+            "name": "Linkextractor 2.0",
+            "sla": 90.82,
+            "flag_points": 7608.24,
+            "flags": {
+              "got": 757,
+              "lost": 96
+            },
+            "status": "UP"
+          },
+          {
+            "name": "pepeviewer",
+            "sla": 76.33,
+            "flag_points": 5329.05,
+            "flags": {
+              "got": 594,
+              "lost": 143
+            },
+            "status": "UP"
+          }
+        ]
+      },
+      {
+        "name": "[SG][NUS] meowcats",
+        "place": 3,
+        "score": 10608.77,
+        "ip": "113",
+        "services": [
+          {
+            "name": "Linkextractor 2.0",
+            "sla": 92.75,
+            "flag_points": 6896.71,
+            "flags": {
+              "got": 624,
+              "lost": 70
+            },
+            "status": "UP"
+          },
+          {
+            "name": "pepeviewer",
+            "sla": 73.91,
+            "flag_points": 5698.35,
+            "flags": {
+              "got": 1122,
+              "lost": 135
+            },
+            "status": "UP"
+          }
+        ]
+      },
+      {
+        "name": "[VN1][SOICT] SSH1141",
+        "place": 4,
+        "score": 10517.23,
+        "ip": "106",
+        "services": [
+          {
+            "name": "Linkextractor 2.0",
+            "sla": 89.9,
+            "flag_points": 4275.11,
+            "flags": {
+              "got": 111,
+              "lost": 60
+            },
+            "status": "UP"
+          },
+          {
+            "name": "pepeviewer",
+            "sla": 78.64,
+            "flag_points": 8486.37,
+            "flags": {
+              "got": 1713,
+              "lost": 217
+            },
+            "status": "UP"
+          }
+        ]
+      },
+      {
+        "name": "[VN2][HCMUT] Hanni Fanclub",
+        "place": 5,
+        "score": 7450.23,
+        "ip": "101",
+        "services": [
+          {
+            "name": "Linkextractor 2.0",
+            "sla": 91.43,
+            "flag_points": 2773.56,
+            "flags": {
+              "got": 186,
+              "lost": 300
+            },
+            "status": "UP"
+          },
+          {
+            "name": "pepeviewer",
+            "sla": 77.18,
+            "flag_points": 6367.09,
+            "flags": {
+              "got": 1057,
+              "lost": 163
+            },
+            "status": "UP"
+          }
+        ]
+      },
+      {
+        "name": "[VN1][PTIT HN] PTIT.Celebi",
+        "place": 6,
+        "score": 6812.92,
+        "ip": "115",
+        "services": [
+          {
+            "name": "Linkextractor 2.0",
+            "sla": 91.3,
+            "flag_points": 4780.88,
+            "flags": {
+              "got": 159,
+              "lost": 231
+            },
+            "status": "UP"
+          },
+          {
+            "name": "pepeviewer",
+            "sla": 71.36,
+            "flag_points": 3430.2,
+            "flags": {
+              "got": 651,
+              "lost": 433
+            },
+            "status": "UP"
+          }
+        ]
+      },
+      {
+        "name": "[VN2][UIT HCM] UIT.T1",
+        "place": 7,
+        "score": 5684.56,
+        "ip": "102",
+        "services": [
+          {
+            "name": "Linkextractor 2.0",
+            "sla": 92.23,
+            "flag_points": 2964.1,
+            "flags": {
+              "got": 125,
+              "lost": 250
+            },
+            "status": "UP"
+          },
+          {
+            "name": "pepeviewer",
+            "sla": 76.81,
+            "flag_points": 3841.46,
+            "flags": {
+              "got": 550,
+              "lost": 401
+            },
+            "status": "UP"
+          }
+        ]
+      },
+      {
+        "name": "[VN1][ISITDTU] ISITDTU1",
+        "place": 8,
+        "score": 5506.84,
+        "ip": "105",
+        "services": [
+          {
+            "name": "Linkextractor 2.0",
+            "sla": 93.69,
+            "flag_points": 2398.88,
+            "flags": {
+              "got": 336,
+              "lost": 285
+            },
+            "status": "UP"
+          },
+          {
+            "name": "pepeviewer",
+            "sla": 68.45,
+            "flag_points": 4761.88,
+            "flags": {
+              "got": 819,
+              "lost": 282
+            },
+            "status": "UP"
+          }
+        ]
+      },
+      {
+        "name": "[VN1][UET] UET_Ch1lL",
+        "place": 9,
+        "score": 5140.71,
+        "ip": "111",
+        "services": [
+          {
+            "name": "Linkextractor 2.0",
+            "sla": 87.44,
+            "flag_points": 4728.47,
+            "flags": {
+              "got": 97,
+              "lost": 154
+            },
+            "status": "UP"
+          },
+          {
+            "name": "pepeviewer",
+            "sla": 67.96,
+            "flag_points": 1480.49,
+            "flags": {
+              "got": 755,
+              "lost": 420
+            },
+            "status": "MUMBLE"
+          }
+        ]
+      },
+      {
+        "name": "[VN2][HCMUS] HCMUS.C2",
+        "place": 10,
+        "score": 4296.4,
+        "ip": "108",
+        "services": [
+          {
+            "name": "Linkextractor 2.0",
+            "sla": 93.24,
+            "flag_points": 0,
+            "flags": {
+              "got": 0,
+              "lost": 240
+            },
+            "status": "UP"
+          },
+          {
+            "name": "pepeviewer",
+            "sla": 82.52,
+            "flag_points": 5206.23,
+            "flags": {
+              "got": 354,
+              "lost": 1200
+            },
+            "status": "UP"
+          }
+        ]
+      },
+      {
+        "name": "[VN2][FPT HCM] W4n4Cry",
+        "place": 11,
+        "score": 4225.9,
+        "ip": "114",
+        "services": [
+          {
+            "name": "Linkextractor 2.0",
+            "sla": 88.1,
+            "flag_points": 1311.26,
+            "flags": {
+              "got": 0,
+              "lost": 95
+            },
+            "status": "UP"
+          },
+          {
+            "name": "pepeviewer",
+            "sla": 77.67,
+            "flag_points": 3953.58,
+            "flags": {
+              "got": 186,
+              "lost": 1057
+            },
+            "status": "UP"
+          }
+        ]
+      },
+      {
+        "name": "[VN2][FPT DN] DBS",
+        "place": 12,
+        "score": 2986.13,
+        "ip": "112",
+        "services": [
+          {
+            "name": "Linkextractor 2.0",
+            "sla": 93.69,
+            "flag_points": 2928.62,
+            "flags": {
+              "got": 211,
+              "lost": 253
+            },
+            "status": "UP"
+          },
+          {
+            "name": "pepeviewer",
+            "sla": 71.84,
+            "flag_points": 337.3,
+            "flags": {
+              "got": 460,
+              "lost": 452
+            },
+            "status": "UP"
+          }
+        ]
+      },
+      {
+        "name": "[VN1][BKDN] BKDN_SSW",
+        "place": 13,
+        "score": 1577.23,
+        "ip": "116",
+        "services": [
+          {
+            "name": "Linkextractor 2.0",
+            "sla": 92.75,
+            "flag_points": 1700.45,
+            "flags": {
+              "got": 57,
+              "lost": 228
+            },
+            "status": "UP"
+          },
+          {
+            "name": "pepeviewer",
+            "sla": 46.12,
+            "flag_points": 0,
+            "flags": {
+              "got": 116,
+              "lost": 852
+            },
+            "status": "UP"
+          }
+        ]
+      },
+      {
+        "name": "[VN2][PTIT HCM] PTITHCM_L4st04nce",
+        "place": 14,
+        "score": 1210.59,
+        "ip": "117",
+        "services": [
+          {
+            "name": "Linkextractor 2.0",
+            "sla": 93.69,
+            "flag_points": 105.45,
+            "flags": {
+              "got": 0,
+              "lost": 214
+            },
+            "status": "UP"
+          },
+          {
+            "name": "pepeviewer",
+            "sla": 82.04,
+            "flag_points": 1355.21,
+            "flags": {
+              "got": 332,
+              "lost": 1266
+            },
+            "status": "UP"
+          }
+        ]
+      },
+      {
+        "name": "[VN1][FPT HN] 0day.today?",
+        "place": 15,
+        "score": 1199.84,
+        "ip": "104",
+        "services": [
+          {
+            "name": "Linkextractor 2.0",
+            "sla": 93.69,
+            "flag_points": 0,
+            "flags": {
+              "got": 0,
+              "lost": 253
+            },
+            "status": "UP"
+          },
+          {
+            "name": "pepeviewer",
+            "sla": 63.11,
+            "flag_points": 1901.28,
+            "flags": {
+              "got": 634,
+              "lost": 1311
+            },
+            "status": "UP"
+          }
+        ]
+      },
+      {
+        "name": "[VN2][HUTECH] HUTECH_003",
+        "place": 16,
+        "score": 671.89,
+        "ip": "120",
+        "services": [
+          {
+            "name": "Linkextractor 2.0",
+            "sla": 86.96,
+            "flag_points": 759.24,
+            "flags": {
+              "got": 0,
+              "lost": 92
+            },
+            "status": "UP"
+          },
+          {
+            "name": "pepeviewer",
+            "sla": 49.51,
+            "flag_points": 23.59,
+            "flags": {
+              "got": 261,
+              "lost": 1213
+            },
+            "status": "UP"
+          }
+        ]
+      },
+      {
+        "name": "[VN1][MSEC] MSEC_F0rSocj3ty",
+        "place": 17,
+        "score": 454.79,
+        "ip": "107",
+        "services": [
+          {
+            "name": "Linkextractor 2.0",
+            "sla": 93.2,
+            "flag_points": 0,
+            "flags": {
+              "got": 5,
+              "lost": 258
+            },
+            "status": "UP"
+          },
+          {
+            "name": "pepeviewer",
+            "sla": 64.56,
+            "flag_points": 704.4,
+            "flags": {
+              "got": 339,
+              "lost": 892
+            },
+            "status": "UP"
+          }
+        ]
+      },
+      {
+        "name": "[VN2][FPT CT] 0v3rxnight",
+        "place": 18,
+        "score": 391.44,
+        "ip": "118",
+        "services": [
+          {
+            "name": "Linkextractor 2.0",
+            "sla": 93.24,
+            "flag_points": 0,
+            "flags": {
+              "got": 0,
+              "lost": 240
+            },
+            "status": "UP"
+          },
+          {
+            "name": "pepeviewer",
+            "sla": 82.04,
+            "flag_points": 477.14,
+            "flags": {
+              "got": 492,
+              "lost": 1565
+            },
+            "status": "UP"
+          }
+        ]
+      },
+      {
+        "name": "[VN1][USTH] USTH_Th4nh_Gi4nG_th3_mE553geR",
+        "place": 19,
+        "score": 168.19,
+        "ip": "110",
+        "services": [
+          {
+            "name": "Linkextractor 2.0",
+            "sla": 91.43,
+            "flag_points": 14.62,
+            "flags": {
+              "got": 0,
+              "lost": 236
+            },
+            "status": "UP"
+          },
+          {
+            "name": "pepeviewer",
+            "sla": 15.05,
+            "flag_points": 1028.83,
+            "flags": {
+              "got": 244,
+              "lost": 857
+            },
+            "status": "MUMBLE"
+          }
+        ]
+      },
+      {
+        "name": "[VN1][VKU] VSL.Xp10r3rs",
+        "place": 20,
+        "score": 95.01,
+        "ip": "119",
+        "services": [
+          {
+            "name": "Linkextractor 2.0",
+            "sla": 92.31,
+            "flag_points": 102.93,
+            "flags": {
+              "got": 3,
+              "lost": 230
+            },
+            "status": "UP"
+          },
+          {
+            "name": "pepeviewer",
+            "sla": 53.4,
+            "flag_points": 0,
+            "flags": {
+              "got": 436,
+              "lost": 694
+            },
+            "status": "UP"
+          }
+        ]
+      }
+    ],
+    "round": 227,
+    "time": "2024-10-20 19:33:00"
+  }]
